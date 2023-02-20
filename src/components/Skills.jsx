@@ -15,7 +15,7 @@ const Skills = () => {
         <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
             <div>
                 <p className='text-4xl font-bold border-b-4 border-green-600'>Skills</p>
-                <p className='py-4 text-lg text-[#8892b0] hover:text-green-600'>// I've worked with the following technologies</p>
+                <p className='py-4 text-lg text-[#8892b0] hover:text-green-600'>I've worked with the following technologies</p>
             </div>
 
             <div className='w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8'>
