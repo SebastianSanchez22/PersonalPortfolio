@@ -2,7 +2,7 @@ import React from 'react'
 import NeuralNetwork from '../assets/NeuralNetwork.jpg'
 import TelegramBot from '../assets/TelegramBot.png'
 import ExpressAPI from '../assets/ExpressAPI.png'
-import YoloV5 from '../assets/YoloV5.png'
+import YoloV5 from '../assets/YoloV5.jpeg'
 
 export const Work = () => {
   return (
